@@ -37,7 +37,7 @@ The full workflow deconvolves a bulk RNA-seq and outputs cell-type composition p
 
 
 ## Getting started
-1. Install the necessary libraries/packages listed in each Jupyter notebook and install Jupyter (https://jupyter.org/install). Alternatively, create an Anaconda environment with the provided [environment.yml](Tools/20221231_findsyn_environment.yml) file.
+1. Install the necessary libraries/packages listed in each Jupyter notebook and install Jupyter (https://jupyter.org/install). Alternatively, create an Anaconda environment with the provided [environment.yml](Tools/environment/20221231_findsyn_environment.yml) file.
 
 2. Prepare 3 files (alternatively, you may download the demo files here: [Finding_synapses_datasets](https://drive.google.com/drive/folders/1Z9go5gfzBpbpvcCkiO7czPJgNspR1d-e?usp=sharing))
 * An unannotated scRNA-seq
