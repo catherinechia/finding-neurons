@@ -55,6 +55,7 @@ Found a bug? Please let us know by using the **Issues** tab above.
 
 ## Authors and affiliation
 [Catherine Chia](https://github.com/catherinechia), [Amparo Roig Adam](https://github.com/amparora) and [Alessandro Moro](https://github.com/alemoro)
+
 Functional Genomics (FGA) Department, Center for Neurogenomics and Cognitive Research (CNCR), Vrije Universiteit Amsterdam
 
 ## Reference
