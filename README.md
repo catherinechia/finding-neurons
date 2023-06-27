@@ -1,4 +1,4 @@
-## Finding synapses
+## Finding neurons
 Last update: 2023-01-05
 
 > "*In silico* multiple single-subject neural tissue screening using deconvolution on pseudo-bulk RNA-seq - a prototype" (Chia et al, 2022)
